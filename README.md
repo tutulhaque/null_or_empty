@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/kalwar/null_or_empty.svg?branch=master)](https://travis-ci.org/kalwar/null_or_empty)
-
 # null_or_empty
 
 A Node.js package that checks if a given string is null or empty.
