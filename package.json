@@ -1,0 +1,11 @@
+{
+  "name": "null_or_empty",
+  "version": "1.0.0",
+  "description": "A simple check to find out weather a given string is null or empty.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SK",
+  "license": "ISC"
+}
