@@ -1,5 +1,5 @@
 {
-  "name": "null_or_empty",
+  "name": "@skalwar/null_or_empty",
   "version": "1.0.0",
   "description": "A simple check to find out weather a given string is null or empty.",
   "main": "index.js",
