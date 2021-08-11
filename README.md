@@ -1,5 +1,4 @@
-[Node CI](https://github.com/kalwar/null_or_empty/workflows/Node%20CI/badge.svg)
-
+https://github.com/kalwar/null_or_empty/workflows/Node%20CI/badge.svg
 
 # null_or_empty
 
