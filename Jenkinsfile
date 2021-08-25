@@ -4,7 +4,7 @@ pipeline {
   tools {nodejs "node"}
   
   stages {
-    stage('Linting') {
+    stage('Lint') {
       steps {
         echo 'Linting stage...'
       }
