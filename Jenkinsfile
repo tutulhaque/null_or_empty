@@ -6,7 +6,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                sh 'echo building...'
+                sh 'npm install @skalwar/null_or_empty --save'
             }
         }
         stage('Test') {
