@@ -22,4 +22,8 @@ Then, require the package and use it like so:
 
 ## License
 
+MIT
+
+## Badge
+
 [![My Custom Badge](https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white)](https://github.com/tutulhaque/null_or_empty)
